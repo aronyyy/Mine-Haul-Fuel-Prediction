@@ -72,7 +72,7 @@ python tabpfn_model.py <TABPFN_API_TOKEN>
 pandas
 numpy
 pyproj
-geopandas          # optional – geofence dump detection for mine001
+geopandas          
 torch
 lightgbm
 tabpfn-client
